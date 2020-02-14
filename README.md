@@ -1,19 +1,19 @@
-#To-Do App
+# To-Do App
 
-##OverView
+## OverView
 A Simple and responsive to-do application built using React-redux, Bootstrap and Material-Ui 
 
-##Dependencies
+## Dependencies
 * Node : (http://nodejs.org/)
 * ReactJS : (https://reactjs.org/)
 * React-redux : (https://react-redux.js.org/)
 * Material-UI : (https://material-ui.com/)
 
-![Dashboard](Home.png)
+#Dashboard ![Dashboard](https://github.com/Manishsharma203/react-redux-ToDoApp/blob/master/public/Home.png)
 
 ## Check it out here - [Live Demo](https://todo-app-ms.netlify.com/)
 
-##Setup
+## Setup
 
 ```
 npm install
